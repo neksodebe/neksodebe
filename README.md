@@ -3,7 +3,7 @@
 😄 I'm Niko (aka. neksodebe) and I'm the guy behind [Parottu](https://www.parottu.me). My pronouns are *he/him.*<br>
 🔭 I'm looking for developers to work on [Parottu](https://www.parottu.me) with me! Contact me if you're interested :)<br><br>
 
-📫 Contact me through [email](mailto:neksodebe@gmail.com) or [Discord](javascript:void(0) onclick="copyToClipboard('Nikoo#4750');")
+📫 Contact me through [E-mail](mailto:neksodebe@gmail.com) or [Discord](https://discord.com/users/593755503339765781)
 
 
 
@@ -21,17 +21,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-
-
-<script>
-function copyToClipboard(text) {
-  var input = document.createElement("textarea");
-  input.value = text;
-  document.body.appendChild(input);
-  input.select();
-  document.execCommand("copy");
-  document.body.removeChild(input);
-}
-</script>
