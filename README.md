@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+😄 I'm Niko (aka. neksodebe) and I'm the guy behind Parottu. My pronouns are he/him.
+🔭 I'm looking for developers to work on Parottu with me! Contact me if you're interested :)
+
+📫 Contact: neksodebe@gmail.com or through Discord: Nikoo#4750
+
+
 <!--
 **neksodebe/neksodebe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
