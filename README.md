@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-😄 I'm Niko (aka. neksodebe) and I'm the guy behind Parottu. My pronouns are he/him.<br>
-🔭 I'm looking for developers to work on Parottu with me! Contact me if you're interested :)<br><br>
+😄 I'm Niko (aka. neksodebe) and I'm the guy behind [Parottu](https://www.parottu.me). My pronouns are *he/him.*<br>
+🔭 I'm looking for developers to work on [Parottu](https://www.parottu.me) with me! Contact me if you're interested :)<br><br>
 
-📫 Contact: neksodebe@gmail.com or through Discord: Nikoo#4750
+📫 Contact me through [email](mailto:neksodebe@gmail.com) or [Discord](javascript:void(0) onclick="copyToClipboard('Nikoo#4750');")
+
 
 
 <!--
@@ -24,3 +25,13 @@ Here are some ideas to get you started:
 
 
 
+<script>
+function copyToClipboard(text) {
+  var input = document.createElement("textarea");
+  input.value = text;
+  document.body.appendChild(input);
+  input.select();
+  document.execCommand("copy");
+  document.body.removeChild(input);
+}
+</script>
