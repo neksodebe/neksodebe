@@ -1,0 +1,15 @@
+* - framework, not a language
+** - not that good at it
+
+HTML
+CSS
+JavaScript
+Java
+jQuery*
+SQL
+C++
+C
+CS**
+NodeJS*
+Mongoose*
+Prisma*
