@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-😄 I'm Niko (aka. neksodebe) and I'm the guy behind Parottu. My pronouns are he/him.
-🔭 I'm looking for developers to work on Parottu with me! Contact me if you're interested :)
+😄 I'm Niko (aka. neksodebe) and I'm the guy behind Parottu. My pronouns are he/him.<br>
+🔭 I'm looking for developers to work on Parottu with me! Contact me if you're interested :)<br><br>
 
 📫 Contact: neksodebe@gmail.com or through Discord: Nikoo#4750
 
