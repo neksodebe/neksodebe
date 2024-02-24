@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-😄 I'm Niko (aka. neksodebe) and I'm the guy behind [Parottu](https://www.parottu.me). My pronouns are *he/him.*<br>
-🔭 I'm looking for developers to work on [Parottu](https://www.parottu.me) with me! Contact me if you're interested :)<br>
+😄 I'm Niko (aka. neksodebe) and I'm the founder of Niko's TechLabs. My pronouns are *he/him.*<br>
+🔭 I'm looking for developers to work on [Parottu](https://www.parottu.com) with me! Contact me if you're interested :)<br>
 
-If you look through my public repositories, you would mostly see cringe and old stuff, and that is because I do most my work in separated organizations, or closed source. I don't want anyone seeing my spaghetti code 🍝
+If you look through my public repositories, you would mostly see cringe and old stuff, and that is because I do most my work in separated organizations, or closed source. I don't want anyone seeing my spaghetti code 🍝 (that was a joke, companies please hire me)
 
-📫 Contact me through [E-mail](mailto:neksodebe@gmail.com) or [Discord](https://discord.com/users/593755503339765781)
+📫 Contact me through [E-mail](mailto:neksodebe@gmail.com) or [Discord](https://discord.com/users/821665213367320586)
 
 
 
